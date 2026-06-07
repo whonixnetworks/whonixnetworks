@@ -73,16 +73,6 @@ Some public projects are experiments that didn't pan out. Some are tools I use d
 
 <div align="center">
 
-<br/><br/>
-
-<sub>Profile views don't mean much to me, but here's a counter anyway because it's fun to watch the number go up.</sub>
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=whonixnetworks&color=F75C7E&style=flat-square&label=views)
 
 </div>
-
----
-
-> **On AI and this profile:** Yes, some of my README was AI-assisted (ironic, right?). The code, opinions, and mistakes are all mine. The parts that read smoothly are probably AI. The parts that sound like I'm complaining about something are definitely me.
