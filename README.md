@@ -61,14 +61,6 @@ A lot of my work lives in private repos — production configs, internal dashboa
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whonixnetworks&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=f75c7e&point=ffffff" alt="Contribution Graph" width="95%">
-
-</div>
-
----
-
 ## Tabs, not spaces. Night owl hours. Australian timezone.
 
 Yes I commit at 2am. No I don't have a sleep schedule — I have a deploy window.
@@ -80,10 +72,6 @@ Some public projects are experiments that didn't pan out. Some are tools I use d
 ---
 
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="170">
-</a>
 
 <br/><br/>
 
